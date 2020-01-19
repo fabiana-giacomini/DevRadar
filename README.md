@@ -1,8 +1,10 @@
 # DevRadar
 
 Aplicação feita com as tecnologias Node.js, ReactJS e React Native na Semana Omnistack 10 (janeiro/2020).<br>
+A proposta é ter um radar de desenvolvedores, mostrando-os no mapa em tempo real, no dispositivo móvel, em que pode-se buscar pessoas pelas tecnologias com que trabalham, bem como em um raio de 10 quilômetros.<br>
 
 ## Funcionalidades
+
 - na página web, cadastro de desenvolvedores a partir de seu usuário no Github, no banco de dados MongoDB;
 - na página web, uso de geolocalização a fim de completar o cadastro com as coordenadas geográficas do usuário;
 - no app mobile, pesquisa de desenvolvedores por tecnologias;
@@ -12,6 +14,7 @@ Aplicação feita com as tecnologias Node.js, ReactJS e React Native na Semana O
 - a atualização é feita em tempo real, sendo que o cadastro feito de um desenvolvedor que trabalha com a tecnologia "x" é mostrado imediatamente na tela do usuário, o qual realizou uma pesquisa com esta tecnologia "x".
 
 ## Tecnologias Utilizadas
+
 Tecnologias Utilizadas e principais dependências: <br>
 
 - JavaScript
